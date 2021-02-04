@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//istanbull.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://istanbull.org/place/historical-places-in-istanbul/</loc>
+		<lastmod>2021-01-24T18:19:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/Popular-Places-to-Visit-in-Istanbul-1.jpg</image:loc>
+			<image:title><![CDATA[Historical Places in Istanbul]]></image:title>
+			<image:caption><![CDATA[Historical Places in Istanbul]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/istanbul-historical-sites.jpg</image:loc>
+			<image:caption><![CDATA[Istanbul Historical Sites]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/blue-mosque-istanbul.jpg</image:loc>
+			<image:caption><![CDATA[blue-mosque-istanbul]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/hagia-sophia.jpg</image:loc>
+			<image:caption><![CDATA[Hagia Sophia]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/Eyup_Sultan_Mosque.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/Patriarchate_Constantinopolis.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/the-interior-of-the-synagogue-edited.jpg</image:loc>
+			<image:caption><![CDATA[Historical Places in Istanbul: Neve Shalom Synagogue]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/church-of-st-mary-of.jpg</image:loc>
+			<image:caption><![CDATA[Historical Places in Istanbul: Church of St Mary of the Mongols]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/Suleymaniye.jpg</image:loc>
+			<image:caption><![CDATA[Historical Places in Istanbul: Suleymaniye]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/aya-irini.jpg</image:loc>
+			<image:caption><![CDATA[Historical Places in Istanbul: Hagia Eirene]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://istanbull.org/place/galataport-istanbul/</loc>
+		<lastmod>2021-01-30T01:44:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/istanbul-cruise-transfer-1.jpg</image:loc>
+			<image:title><![CDATA[istanbul-cruise-transfer (1)]]></image:title>
+			<image:caption><![CDATA[Galataport - Istanbul Cruise Port]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/galataport-istanbul-food-places.jpg</image:loc>
+			<image:caption><![CDATA[Galataport Istanbul Food Places]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://istanbull.org/food/best-places-to-eat-in-istanbul-city-center/</loc>
+		<lastmod>2021-02-01T19:28:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/best-places-to-eat-in-Istanbul.jpg</image:loc>
+			<image:title><![CDATA[best-places-to-eat-in-Istanbul]]></image:title>
+			<image:caption><![CDATA[best places to eat in Istanbul]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/ficcin-beyoglu.jpg</image:loc>
+			<image:caption><![CDATA[ficcin-beyoglu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/lades-menemen.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/beyoglu-turkish-restaurant-nizam-pide.jpg</image:loc>
+			<image:caption><![CDATA[beyoglu-turkish-restaurant-nizam-pide]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/beyoglu-turkish-restaurant-nizam-pide.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/canim-cigerim.jpg</image:loc>
+			<image:caption><![CDATA[Best Liver in Istanbul: Canim Cigerim]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/01/turkish-fast-food-restaurant-kizilkayalar.jpg</image:loc>
+			<image:caption><![CDATA[turkish-fast-food-restaurant-kizilkayalar]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://istanbull.org/transportation/istanbul-transportation-guide/</loc>
+		<lastmod>2021-02-01T23:09:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/02/new-istanbul-airport.jpg</image:loc>
+			<image:title><![CDATA[new-istanbul-airport]]></image:title>
+			<image:caption><![CDATA[IStanbul Airport]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/02/new-istanbul-airport.jpg</image:loc>
+			<image:caption><![CDATA[New Istanbul Airport ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://istanbull.org/wp-content/uploads/2021/02/yotel-istanbul.jpg</image:loc>
+			<image:caption><![CDATA[Istanbul Airport Hotel - YOTEL Istanbul]]></image:caption>
+		</image:image>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
